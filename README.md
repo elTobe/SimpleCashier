@@ -2,7 +2,7 @@
 
 SimpleCashier es una aplicación desarrollada en Qt 6.5.2 que sirve como un cajero sencillo, pensado para reemplazar cajas de cobro antiguas sin la necesidad de tener un punto de venta completo. El programa permite la impresión de tickets con impresoras térmicas de 80 mm y la apertura de cajón de dinero. Además, si se dispone de una base de datos MySQL de SICAR Punto de Venta, se puede conectar para buscar el precio de un artículo por código EAN/UPC. SimpleCashier soporta la fácil adición y modificación de departamentos mediante archivos de configuración hasta un máximo de 99, además es capaz de producir Corte Z y Corte X.
 
-![SimpleCashier](doc/img/screenshot1.PNG)
+![SimpleCashier](doc/img/workflow1.gif)
 
 ## Requisitos
 
