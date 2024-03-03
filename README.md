@@ -18,6 +18,7 @@ SimpleCashier es una aplicación desarrollada en Qt 6.5.2 que sirve como un caje
 3. Compila el proyecto y genera el archivo ejecutable (`CajaSUPER.exe`).
 4. Si deseas utilizar la consulta con SICAR, configura la IP del servidor y las credenciales de acceso en el archivo `ip_server.txt`.
 5. Configura los departamentos utilizando el archivo `departamentos.txt`. El número de línea indica el número de departamento y el contenido de la línea es el nombre del departamento.
+6. Seleccione como impresora predeterminada de Windows la impresora térmica.
 
 ## Uso
 
