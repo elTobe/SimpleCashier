@@ -30,15 +30,15 @@ Para utilizar SimpleCashier:
 
 Para búsqueda de producto proveniente de SICAR Punto de Venta:
 
-1.- Presione F12, se abrirá una ventana extra para realizar la búsqueda.
-2.- Teclee los últimos dígitos de la clave de producto (EAN/UPC) para búsqueda por reelevancia, o escanee el código de barras.
-3.- Una vez encontrado el producto deseado, escriba los dos dígitos de departamento y presione Enter.
-4.- El monto del producto se añadirá al ticket.
+1. Presione F12, se abrirá una ventana extra para realizar la búsqueda.
+2. Teclee los últimos dígitos de la clave de producto (EAN/UPC) para búsqueda por reelevancia, o escanee el código de barras.
+3. Una vez encontrado el producto deseado, escriba los dos dígitos de departamento y presione Enter.
+4. El monto del producto se añadirá al ticket.
 
 Otras funciones : 
-1.- Para ingresar múltiplos de productos digite la cantidad, seguido de asterisco (*) y luego proceda introducir el producto de manera normal.
-2.- Borre productos del ticket presionando dos veces la tecla Suprimir (Del o Supr)
-3.- Los botones de funciones Corte X, Corte Z, Abrir Cajon, Reimpresion de Ticket, tiene atajos de teclado, revise el archivo de ui.
+1. Para ingresar múltiplos de productos digite la cantidad, seguido de asterisco (*) y luego proceda introducir el producto de manera normal.
+2. Borre productos del ticket presionando dos veces la tecla Suprimir (Del o Supr)
+3. Los botones de funciones Corte X, Corte Z, Abrir Cajon, Reimpresion de Ticket, tiene atajos de teclado, revise el archivo de ui.
 
 ## Contribuciones y Uso del Código
 
