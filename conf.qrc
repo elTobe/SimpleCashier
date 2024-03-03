@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/conf">
+        <file>departamentos.txt</file>
+        <file>ip_server.txt</file>
+    </qresource>
+</RCC>

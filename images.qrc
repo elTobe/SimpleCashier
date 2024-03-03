@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>small_elegant_logo.png</file>
+        <file>logo.png</file>
+        <file>lupa.png</file>
+        <file>error.png</file>
+        <file>ok.png</file>
+    </qresource>
+</RCC>

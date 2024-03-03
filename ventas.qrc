@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ventas">
+        <file>ultima_venta.txt</file>
+    </qresource>
+</RCC>
